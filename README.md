@@ -1,18 +1,37 @@
+<!-- Animated Header -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vinay%20Kumar&fontSize=80&animation=fadeIn">
+</p>
+
+
+<!-- Typing Animation -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Explorer;Building+AI+Applications">
+</p>
+
+
 # 👋 Hi, I'm Vinay Kumar
+
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-## 🚀 Aspiring Data Scientist | Machine Learning Engineer
 
-I am a Data Science enthusiast passionate about transforming data into meaningful insights and building intelligent AI solutions.
+## 🚀 Data Science | Machine Learning | Artificial Intelligence
 
-I work with **Python, Machine Learning, Deep Learning, SQL, and Generative AI** to solve real-world problems through data-driven approaches.
+
+I am a Data Science enthusiast passionate about building intelligent systems using **Machine Learning, Deep Learning, SQL, and Generative AI**.
+
+I transform raw data into meaningful insights and develop AI-powered solutions for real-world problems.
 
 > "Code. Learn. Build. Repeat."
 
+
 ---
 
-## 💫 About Me
+# 💫 About Me
+
 
 🎓 Aspiring Data Scientist focused on Artificial Intelligence and Machine Learning
 
@@ -20,23 +39,27 @@ I work with **Python, Machine Learning, Deep Learning, SQL, and Generative AI** 
 
 📊 Experienced in Data Analysis, Visualization, Feature Engineering and Predictive Modeling
 
-🤖 Building ML, Deep Learning and AI-powered applications
+🤖 Building Machine Learning, Deep Learning and Generative AI applications
 
-🗄️ Skilled in SQL for data exploration and business analytics
+🗄️ Skilled in SQL, Data Analytics and Business Intelligence
 
-🌱 Currently learning:
-- Deep Learning
+🌱 Currently exploring:
+
 - Large Language Models (LLMs)
 - Retrieval Augmented Generation (RAG)
-- MLOps & Model Deployment
+- MLOps
+- Cloud AI Deployment
 
-🎯 Goal: Build impactful AI solutions as a Data Scientist / ML Engineer
+
+🎯 Goal: Become a Data Scientist / ML Engineer and build impactful AI solutions
+
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/vinaykumar229/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
@@ -59,155 +82,14 @@ I work with **Python, Machine Learning, Deep Learning, SQL, and Generative AI** 
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-### Programming
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,pandas,numpy,sklearn,tensorflow,pytorch,opencv,git,github,aws,vscode&perline=7">
 
-### Data Science & Machine Learning
+</p>
 
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 
-
-### Visualization & Deployment
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![AWS](https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=amazonaws)
-
-
----
-
-# 🚀 Featured Projects
-
-
-## 🥊 Human Activity Recognition using CNN + LLM
-
-Deep Learning based video classification system using the **UCF50 dataset**.
-
-**Highlights:**
-
-- Extracted video features using CNN architecture
-- Performed action classification from video sequences
-- Integrated LLM layer for generating human-readable activity explanations
-
-**Tech Stack:**
-
-`Python` `CNN` `Computer Vision` `Deep Learning` `LLM`
-
-
----
-
-## 🚗 Car Price Prediction System
-
-Machine Learning application predicting used car prices using regression techniques.
-
-**Highlights:**
-
-- Performed Exploratory Data Analysis
-- Applied feature engineering
-- Compared ML models
-- Built interactive Streamlit prediction application
-
-**Tech Stack:**
-
-`Python` `Pandas` `Scikit-Learn` `Streamlit`
-
-
----
-
-## 📊 IPL Deliveries Data Analysis
-
-End-to-end cricket analytics project exploring IPL match data.
-
-**Highlights:**
-
-- Cleaned and analyzed large datasets
-- Generated player performance insights
-- Created statistical visualizations
-
-**Tech Stack:**
-
-`Python` `Pandas` `Matplotlib`
-
-
----
-
-## 🛒 E-Commerce Customer & Sales Analysis using SQL
-
-Business analytics project using advanced SQL techniques.
-
-**Highlights:**
-
-- Designed analytical SQL queries
-- Used Joins, CTEs and Window Functions
-- Performed customer segmentation analysis
-
-**Tech Stack:**
-
-`MySQL` `SQL Analytics`
-
-
----
-
-# 🔭 Currently Building
-
-🚀 AI-powered applications using LLMs
-
-📈 Advanced Machine Learning projects
-
-🤖 Generative AI and RAG systems
-
-📚 DSA problem-solving journey
-
-
----
-
-# 📊 GitHub Analytics
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=vinaykumar2291&show_icons=true&theme=tokyonight">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumar2291&theme=tokyonight">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar2291&layout=compact&theme=tokyonight">
-
-
----
-
-# 🐍 Contribution Snake
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinaykumar2291/vinaykumar2291/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinaykumar2291/vinaykumar2291/output/github-contribution-grid-snake.svg">
-
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vinaykumar2291/vinaykumar2291/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-
----
-
-# 👀 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=vinaykumar2291&style=for-the-badge">
-
-
----
-
-⭐ Thanks for visiting my profile!
-
-Let's connect and build something impactful with Data & AI 🚀
+### Data Science Tools
