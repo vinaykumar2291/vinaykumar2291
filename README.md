@@ -1,121 +1,213 @@
-# 💫 About Me
+# 👋 Hi, I'm Vinay Kumar
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🎓 **Aspiring Data Scientist**
+## 🚀 Aspiring Data Scientist | Machine Learning Engineer
 
-🐍 Python Developer
+I am a Data Science enthusiast passionate about transforming data into meaningful insights and building intelligent AI solutions.
 
-📊 Passionate about Data Analysis, Machine Learning, and Artificial Intelligence
+I work with **Python, Machine Learning, Deep Learning, SQL, and Generative AI** to solve real-world problems through data-driven approaches.
 
-💾 Skilled in SQL, Data Visualization, and Predictive Analytics
+> "Code. Learn. Build. Repeat."
 
-💻 Solving Data Structures & Algorithms (DSA) problems using C++
+---
 
-🚀 Building real-world Machine Learning and Data Science projects with Python & Streamlit
+## 💫 About Me
 
-🌱 Currently learning Deep Learning, System Design, and Generative AI
+🎓 Aspiring Data Scientist focused on Artificial Intelligence and Machine Learning
 
-🎯 Goal: Become a Data Scientist at a leading technology company
+🐍 Strong foundation in Python, Data Structures & Algorithms
 
-> **"Code. Learn. Build. Repeat."**
+📊 Experienced in Data Analysis, Visualization, Feature Engineering and Predictive Modeling
+
+🤖 Building ML, Deep Learning and AI-powered applications
+
+🗄️ Skilled in SQL for data exploration and business analytics
+
+🌱 Currently learning:
+- Deep Learning
+- Large Language Models (LLMs)
+- Retrieval Augmented Generation (RAG)
+- MLOps & Model Deployment
+
+🎯 Goal: Build impactful AI solutions as a Data Scientist / ML Engineer
 
 ---
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaykumar229/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vinay32795@gmail.com)
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vinaykumar229/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://leetcode.com/u/vinaykumar805125/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+</a>
+
+<a href="https://www.kaggle.com/code/vinaykumarmnnnj">
+<img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle">
+</a>
+
+<a href="mailto:vinay32795@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+### Programming
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+
+
+### Data Science & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+
+
+### Visualization & Deployment
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![AWS](https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=amazonaws)
+
 
 ---
 
 # 🚀 Featured Projects
 
-⭐ **Human Activity Recognition using CNN + LLM**
 
-- Built an activity recognition system using the UCF50 dataset.
-- Used CNN for feature extraction and LLM for intelligent activity descriptions.
+## 🥊 Human Activity Recognition using CNN + LLM
 
-⭐ **Car Price Prediction System**
+Deep Learning based video classification system using the **UCF50 dataset**.
 
-- Developed a machine learning model to predict used car prices.
-- Created an interactive Streamlit web application.
+**Highlights:**
 
-⭐ **IPL Deliveries Data Analysis**
+- Extracted video features using CNN architecture
+- Performed action classification from video sequences
+- Integrated LLM layer for generating human-readable activity explanations
 
-- Performed exploratory data analysis using Pandas and Matplotlib.
-- Visualized team performance, player statistics, and match insights.
+**Tech Stack:**
 
-⭐ **E-Commerce Customer & Sales Analysis (SQL)**
+`Python` `CNN` `Computer Vision` `Deep Learning` `LLM`
 
-- Solved 20+ advanced SQL queries.
-- Generated business insights through customer segmentation and sales analysis.
 
 ---
 
-# 📊 GitHub Statistics
+## 🚗 Car Price Prediction System
 
-![](https://github-readme-stats.shion.dev/api?username=vinaykumar2291&theme=merko&hide_border=false&include_all_commits=true&count_private=false)
+Machine Learning application predicting used car prices using regression techniques.
 
-![](https://streak-stats.demolab.com/?user=vinaykumar2291&theme=merko&hide_border=false)
+**Highlights:**
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vinaykumar2291&theme=merko&hide_border=false&layout=compact)
+- Performed Exploratory Data Analysis
+- Applied feature engineering
+- Compared ML models
+- Built interactive Streamlit prediction application
 
----
+**Tech Stack:**
 
-# 🏆 GitHub Trophies
+`Python` `Pandas` `Scikit-Learn` `Streamlit`
 
-![](https://github-profile-trophy.vercel.app/?username=vinaykumar2291&theme=radical&margin-w=10)
-
----
-
-# 📈 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=vinaykumar2291&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-# ✍️ Random Developer Quote
+## 📊 IPL Deliveries Data Analysis
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+End-to-end cricket analytics project exploring IPL match data.
+
+**Highlights:**
+
+- Cleaned and analyzed large datasets
+- Generated player performance insights
+- Created statistical visualizations
+
+**Tech Stack:**
+
+`Python` `Pandas` `Matplotlib`
+
+
+---
+
+## 🛒 E-Commerce Customer & Sales Analysis using SQL
+
+Business analytics project using advanced SQL techniques.
+
+**Highlights:**
+
+- Designed analytical SQL queries
+- Used Joins, CTEs and Window Functions
+- Performed customer segmentation analysis
+
+**Tech Stack:**
+
+`MySQL` `SQL Analytics`
+
+
+---
+
+# 🔭 Currently Building
+
+🚀 AI-powered applications using LLMs
+
+📈 Advanced Machine Learning projects
+
+🤖 Generative AI and RAG systems
+
+📚 DSA problem-solving journey
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=vinaykumar2291&show_icons=true&theme=tokyonight">
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumar2291&theme=tokyonight">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar2291&layout=compact&theme=tokyonight">
+
 
 ---
 
 # 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinaykumar2291/vinaykumar2291/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinaykumar2291/vinaykumar2291/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vinaykumar2291/vinaykumar2291/output/github-contribution-grid-snake.svg">
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinaykumar2291/vinaykumar2291/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinaykumar2291/vinaykumar2291/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vinaykumar2291/vinaykumar2291/output/github-contribution-grid-snake.svg">
+
 </picture>
 
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=vinaykumar2291&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+# 👀 Profile Visitors
 
-If you like my projects, consider giving them a ⭐ and connecting with me on LinkedIn.
+<img src="https://komarev.com/ghpvc/?username=vinaykumar2291&style=for-the-badge">
+
+
+---
+
+⭐ Thanks for visiting my profile!
+
+Let's connect and build something impactful with Data & AI 🚀
