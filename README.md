@@ -93,3 +93,188 @@ I transform raw data into meaningful insights and develop AI-powered solutions f
 
 
 ### Data Science Tools
+
+---
+
+# 🚀 Featured Projects
+
+
+## 🥊 Human Activity Recognition using CNN + LLM
+
+Deep Learning based video action recognition system using the **UCF50 dataset**.
+
+
+### Highlights:
+
+✔ Video preprocessing and frame extraction
+
+✔ CNN-based feature extraction
+
+✔ Human activity classification
+
+✔ LLM integration for intelligent activity explanations
+
+
+**Tech Stack**
+
+`Python` `CNN` `Computer Vision` `Deep Learning` `LLM`
+
+
+---
+
+
+## 🚗 Car Price Prediction System
+
+
+Machine Learning application predicting used car prices using regression algorithms.
+
+
+### Highlights:
+
+✔ Exploratory Data Analysis
+
+✔ Feature Engineering
+
+✔ ML Model Comparison
+
+✔ Streamlit Web Application
+
+
+**Tech Stack**
+
+`Python` `Pandas` `Scikit-Learn` `Streamlit`
+
+
+---
+
+
+## 📊 IPL Deliveries Data Analysis
+
+
+End-to-end cricket analytics project extracting insights from IPL datasets.
+
+
+### Highlights:
+
+✔ Data Cleaning
+
+✔ Player Performance Analysis
+
+✔ Team Statistics
+
+✔ Data Visualization Dashboard
+
+
+**Tech Stack**
+
+`Python` `Pandas` `Matplotlib`
+
+
+---
+
+
+## 🛒 E-Commerce Customer & Sales Analysis
+
+
+SQL-based business analytics project to understand customer behavior and revenue patterns.
+
+
+### Highlights:
+
+✔ Advanced SQL Queries
+
+✔ Joins
+
+✔ CTEs
+
+✔ Window Functions
+
+✔ Customer Segmentation
+
+
+**Tech Stack**
+
+`MySQL` `SQL Analytics`
+
+
+---
+
+# 🔭 Currently Building
+
+
+🚀 Generative AI Applications
+
+🤖 RAG-based AI Systems
+
+📈 Advanced Machine Learning Projects
+
+🧠 Deep Learning Models
+
+📚 DSA Problem Solving
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vinaykumar2291&show_icons=true&theme=tokyonight">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumar2291&theme=tokyonight">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar2291&layout=compact&theme=tokyonight">
+
+</p>
+
+
+---
+
+# 🏆 GitHub Achievements
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=vinaykumar2291&theme=tokyonight&margin-w=10">
+
+
+---
+
+# 🐍 Contribution Snake
+
+
+<p align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinaykumar2291/vinaykumar2291/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinaykumar2291/vinaykumar2291/output/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/vinaykumar2291/vinaykumar2291/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</p>
+
+
+---
+
+# 👀 Profile Visitors
+
+
+<img src="https://komarev.com/ghpvc/?username=vinaykumar2291&style=for-the-badge">
+
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+🚀 Let's connect and build something impactful with Data & AI
+
+</p>
