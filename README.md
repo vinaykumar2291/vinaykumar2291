@@ -1,29 +1,38 @@
-<!-- Animated Header -->
+<!-- 🌊 Animated Header -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vinay%20Kumar&fontSize=80&animation=fadeIn">
 </p>
 
 
-<!-- Typing Animation -->
+<!-- ⌨️ Typing Animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Explorer;Building+AI+Applications">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&width=750&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Explorer;Generative+AI+Enthusiast;Building+AI+Applications">
 </p>
 
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20To-Data%20Science%20Opportunities-success?style=for-the-badge">
+
+</p>
+
+
+---
+
 # 👋 Hi, I'm Vinay Kumar
 
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-
-## 🚀 Data Science | Machine Learning | Artificial Intelligence
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 
-I am a Data Science enthusiast passionate about building intelligent systems using **Machine Learning, Deep Learning, SQL, and Generative AI**.
+## 🚀 Data Scientist | Machine Learning Enthusiast
 
-I transform raw data into meaningful insights and develop AI-powered solutions for real-world problems.
+
+I am a Data Science enthusiast passionate about transforming data into meaningful insights and building intelligent AI solutions.
+
+I work with **Python, Machine Learning, Deep Learning, SQL, Computer Vision and Generative AI** to solve real-world problems.
+
 
 > "Code. Learn. Build. Repeat."
 
@@ -35,23 +44,17 @@ I transform raw data into meaningful insights and develop AI-powered solutions f
 
 🎓 Aspiring Data Scientist focused on Artificial Intelligence and Machine Learning
 
-🐍 Strong foundation in Python, Data Structures & Algorithms
+🐍 Strong foundation in Python programming and Data Structures
 
-📊 Experienced in Data Analysis, Visualization, Feature Engineering and Predictive Modeling
+📊 Experienced in Data Analysis, Visualization and Predictive Modeling
 
-🤖 Building Machine Learning, Deep Learning and Generative AI applications
+🤖 Building Machine Learning and AI-powered applications
 
-🗄️ Skilled in SQL, Data Analytics and Business Intelligence
+🗄️ Skilled in SQL analytics and database management
 
-🌱 Currently exploring:
+🧠 Exploring Deep Learning, LLMs and RAG Systems
 
-- Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
-- MLOps
-- Cloud AI Deployment
-
-
-🎯 Goal: Become a Data Scientist / ML Engineer and build impactful AI solutions
+🎯 Goal: Become a Data Scientist / ML Engineer building impactful AI products
 
 
 ---
@@ -65,13 +68,16 @@ I transform raw data into meaningful insights and develop AI-powered solutions f
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
+
 <a href="https://leetcode.com/u/vinaykumar805125/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
 </a>
 
+
 <a href="https://www.kaggle.com/code/vinaykumarmnnnj">
 <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle">
 </a>
+
 
 <a href="mailto:vinay32795@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
@@ -82,7 +88,7 @@ I transform raw data into meaningful insights and develop AI-powered solutions f
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 
 <p align="center">
@@ -92,7 +98,15 @@ I transform raw data into meaningful insights and develop AI-powered solutions f
 </p>
 
 
-### Data Science Tools
+### Data Science
+
+### AI / ML
+
+
+---
+
+# 🧭 My Data Science Journey
+
 
 ---
 
@@ -101,6 +115,7 @@ I transform raw data into meaningful insights and develop AI-powered solutions f
 
 ## 🥊 Human Activity Recognition using CNN + LLM
 
+
 Deep Learning based video action recognition system using the **UCF50 dataset**.
 
 
@@ -108,16 +123,17 @@ Deep Learning based video action recognition system using the **UCF50 dataset**.
 
 ✔ Video preprocessing and frame extraction
 
-✔ CNN-based feature extraction
+✔ CNN feature extraction
 
 ✔ Human activity classification
 
-✔ LLM integration for intelligent activity explanations
+✔ LLM-generated activity explanations
 
 
-**Tech Stack**
+Tech Stack:
 
 `Python` `CNN` `Computer Vision` `Deep Learning` `LLM`
+
 
 
 ---
@@ -126,23 +142,26 @@ Deep Learning based video action recognition system using the **UCF50 dataset**.
 ## 🚗 Car Price Prediction System
 
 
-Machine Learning application predicting used car prices using regression algorithms.
+Machine Learning regression system to predict used car prices.
 
 
 ### Highlights:
 
+✔ Data cleaning and preprocessing
+
 ✔ Exploratory Data Analysis
 
-✔ Feature Engineering
+✔ Feature engineering
 
-✔ ML Model Comparison
+✔ Model comparison
 
-✔ Streamlit Web Application
+✔ Streamlit deployment
 
 
-**Tech Stack**
+Tech Stack:
 
 `Python` `Pandas` `Scikit-Learn` `Streamlit`
+
 
 
 ---
@@ -151,23 +170,24 @@ Machine Learning application predicting used car prices using regression algorit
 ## 📊 IPL Deliveries Data Analysis
 
 
-End-to-end cricket analytics project extracting insights from IPL datasets.
+Data analytics project exploring IPL match and player performance.
 
 
 ### Highlights:
 
-✔ Data Cleaning
+✔ Dataset cleaning
 
-✔ Player Performance Analysis
+✔ Statistical analysis
 
-✔ Team Statistics
+✔ Player insights
 
-✔ Data Visualization Dashboard
+✔ Visualization dashboard
 
 
-**Tech Stack**
+Tech Stack:
 
 `Python` `Pandas` `Matplotlib`
+
 
 
 ---
@@ -176,12 +196,12 @@ End-to-end cricket analytics project extracting insights from IPL datasets.
 ## 🛒 E-Commerce Customer & Sales Analysis
 
 
-SQL-based business analytics project to understand customer behavior and revenue patterns.
+SQL analytics project solving business problems.
 
 
 ### Highlights:
 
-✔ Advanced SQL Queries
+✔ Advanced SQL queries
 
 ✔ Joins
 
@@ -189,28 +209,48 @@ SQL-based business analytics project to understand customer behavior and revenue
 
 ✔ Window Functions
 
-✔ Customer Segmentation
+✔ Customer segmentation
 
 
-**Tech Stack**
+Tech Stack:
 
 `MySQL` `SQL Analytics`
 
 
+
 ---
 
-# 🔭 Currently Building
+# 🤖 AI / ML Projects
 
 
-🚀 Generative AI Applications
+Currently building:
 
-🤖 RAG-based AI Systems
 
-📈 Advanced Machine Learning Projects
+🚀 Generative AI applications
 
-🧠 Deep Learning Models
+🤖 RAG-based AI assistants
 
-📚 DSA Problem Solving
+🧠 Deep Learning models
+
+🎥 Computer Vision systems
+
+📈 Predictive analytics solutions
+
+
+---
+
+# 📚 Currently Learning
+
+
+🌱 Large Language Models (LLMs)
+
+🌱 Retrieval Augmented Generation (RAG)
+
+🌱 Vector Databases
+
+🌱 MLOps
+
+🌱 Cloud AI Deployment
 
 
 ---
@@ -222,11 +262,9 @@ SQL-based business analytics project to understand customer behavior and revenue
 
 <img src="https://github-readme-stats.vercel.app/api?username=vinaykumar2291&show_icons=true&theme=tokyonight">
 
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumar2291&theme=tokyonight">
 
-<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar2291&layout=compact&theme=tokyonight">
 
@@ -235,7 +273,7 @@ SQL-based business analytics project to understand customer behavior and revenue
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 Achievements
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=vinaykumar2291&theme=tokyonight&margin-w=10">
@@ -271,6 +309,18 @@ SQL-based business analytics project to understand customer behavior and revenue
 
 ---
 
+# 📫 Contact
+
+
+📧 Email: vinay32795@gmail.com
+
+💼 LinkedIn: vinaykumar229
+
+🐙 GitHub: vinaykumar2291
+
+
+---
+
 <p align="center">
 
 ⭐ Thanks for visiting my profile!
@@ -278,3 +328,4 @@ SQL-based business analytics project to understand customer behavior and revenue
 🚀 Let's connect and build something impactful with Data & AI
 
 </p>
+
